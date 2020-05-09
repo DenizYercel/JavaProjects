@@ -1,0 +1,3 @@
+test etmek iyidir
+bazen çok önemlidir
+hello asd
