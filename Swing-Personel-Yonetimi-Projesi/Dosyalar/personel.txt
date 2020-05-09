@@ -1,0 +1,7 @@
+deniz
+yercel
+23
+1990
+ankara
+E
+true
